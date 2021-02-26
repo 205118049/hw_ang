@@ -1,6 +1,6 @@
 # Angular and TypeScript Hello World Project
 
-Author : Nikhil
+## Author : Nikhil
 
 
 The Hello World project is an Angular 2+ starter project that has the npm modules, 
