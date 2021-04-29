@@ -1,6 +1,6 @@
 # Angular and TypeScript Hello World Project
 
-## Author : Nikhil 
+## Author :Praful Waghe
 I am the best 
 I am the best
 
